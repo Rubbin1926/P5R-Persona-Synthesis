@@ -5,4 +5,4 @@ ATTENTION: Some masks have specialized synthesis methods that are not within the
 
 文档语言为简体中文或繁体中文。
 详细的合成方法可以参考以下视频（中文版本）：https://www.bilibili.com/video/BV13B4y1F7EA/
-注意：有些面具有专门的合成方法，不在视频范围内，比如爱丽丝（死神83级）[需要魔鬼 奈比罗斯（74）+魔鬼 贝利亚（82）]，其它请自己搜索。
+注意：有些面具有专门的合成方法，不在视频范围内，比如爱丽丝（死神83级）[需要 魔鬼 奈比洛斯（74）+ 魔鬼 贝利亚（82）]，其它请自行搜索。
